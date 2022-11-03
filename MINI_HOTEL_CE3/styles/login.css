@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: whitesmoke;
+}
+
+#form{
+    display: grid;
+    width:300px;
+
+    margin: auto;
+    margin-top: 25px;
+   justify-content: center;
+   text-align: center;
+}
+#form > input{
+    margin :20px;
+    width: 80%;
+    padding: 10px;
+    gap: 5px;
+}
+
+#form > button{
+    margin:25px;
+}

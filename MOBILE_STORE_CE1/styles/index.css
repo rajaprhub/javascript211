@@ -1,0 +1,48 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    text-align: center;
+}
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 90%;
+    margin: 10px auto;
+    padding: 25px;
+    border:1px solid gray;
+}
+#form{
+   display: grid;
+   gap: 10px;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+   width: 30%;
+   margin: 10px auto;
+   border:1px solid gray;
+}
+
+
+#mobile_list{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px ;
+    margin: 20px auto ;
+    width: 95%;
+}
+
+.mobile{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+.mobile img{
+    width:95%;
+    height: 220px;
+}
