@@ -12,4 +12,4 @@ Mobile store: type of mobile search
 
 https://6315a6a61b29b119dbb2513e--sensational-bombolone-20809f.netlify.app/
 
-image.png
+![image](https://user-images.githubusercontent.com/98698646/199724883-c45044e5-1f64-4bc9-aa33-452d30d6b73a.png)
