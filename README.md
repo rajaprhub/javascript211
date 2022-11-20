@@ -4,7 +4,7 @@ Inventory Products Add : Admin javascript with filter functionality
 
  https://statuesque-gecko-e1a95c.netlify.app/
 
-Mini Hotel CE3 booking : example Goa,Mumbai with using Api_fetch 
+Mini Hotel CE3 booking : example goa,mumbai with using Api_fetch 
 
 https://bright-caramel-29feab.netlify.app/
 
